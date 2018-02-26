@@ -8,10 +8,11 @@ To run this project all you need to do is to create MySQL database (localhost:33
 
 Avalible end-points:
 localhost:8080/
-  -Get     api/notes
-  -Get     api/notes/{id}
-  -Post    api/notes
-  -Put     api/notes/{id}
-  -Delete  api/notes/{id})
+
+-Get     api/notes
+-Get     api/notes/{id}
+-Post    api/notes
+-Put     api/notes/{id}
+-Delete  api/notes/{id})
   
 I.E. Send to api call post (localhost:8080/api/notes) with {"title": "trolo", "content":"trolo2"}
