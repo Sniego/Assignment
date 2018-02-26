@@ -1,10 +1,10 @@
 # Assignment
 ## Requirments
 - Java 1.8 
-- MySQL database free of choise
-- Postman or anything free of chooise
+- MySQL database free of choice
+- Postman or anything free of choice
 
-To run this project all you need to do is to create MySQL database (localhost:3306), and call it 'notes_app'
+To run this project all you need to do is to create MySQL database (localhost:3306), and call it 'notes_app', and run DemoApplication class
 
 ## Avalible end-points:
 localhost:8080/
