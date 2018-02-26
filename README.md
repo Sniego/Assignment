@@ -1,5 +1,5 @@
-## Assignment
-# Requirments
+# Assignment
+## Requirments
 - Java 1.8 
 - MySQL database free of choise
 - Postman or anything free of chooise
